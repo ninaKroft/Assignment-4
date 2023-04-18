@@ -1,6 +1,6 @@
 .text {
     font-family: verdana;
-    font-size: 12px;
+    font-size: 13px;
     color: rgb(0, 0, 43);
 }
 
@@ -8,12 +8,12 @@
     font-family: verdana;
     color: rgb(0, 0, 43);
     text-decoration: underline;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .subtitle {
     font-family: verdana;
     color: rgb(0, 0, 43);
     font-weight: bold;
-    font-size: 14px;
+    font-size: 16px;
 }
