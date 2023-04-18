@@ -1,0 +1,19 @@
+.text {
+    font-family: verdana;
+    font-size: 12px;
+    color: rgb(0, 0, 43);
+}
+
+.title {
+    font-family: verdana;
+    color: rgb(0, 0, 43);
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+.subtitle {
+    font-family: verdana;
+    color: rgb(0, 0, 43);
+    font-weight: bold;
+    font-size: 14px;
+}
