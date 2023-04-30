@@ -9,6 +9,8 @@
     color: rgb(0, 0, 43);
     text-decoration: underline;
     font-size: 35px;
+    border: 5px inset rgb(162, 221, 156);
+    text-shadow: 1px 1px 0 black;
 }
 
 .subtitle {
